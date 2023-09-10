@@ -1,0 +1,454 @@
+[
+    {
+        "id": "justiceA",
+        "name": "iPhone X",
+        "price": 3350000,
+        "company": "Apple",
+        "colors": [
+            "#2f3640",
+            "#9c88ff",
+            "#dcdde1"
+        ],
+        "description": "The iPhone X boasts a gorgeous all-screen Liquid Retina LCD that is water resistant up to 2 metres for up to 30 minutes. Moreover, the ultra-wide 13 mm lens has a 120-degree field of view for four times more scenes, and the 26 mm wide lens provides up to 100% Autofocus in low light.",
+        "category": "mobile",
+        "stock": 5,
+        "reviews": 60,
+        "stars": 4.2,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/16632913/pexels-photo-16632913/free-photo-of-close-up-of-redmi-cellphone.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "justiceB",
+        "name": "iWatch Series 5",
+        "price": 4490000,
+        "company": "Apple",
+        "colors": [
+            "#2f3640",
+            "#487eb0"
+        ],
+        "description": "Apple Watch Series 5 features advanced health sensors and apps, so you can take an ECG, measure heart rate and blood oxygen, and track temperature changes for advanced insights into your menstrual cycle. And with Crash Detection, sleep stages tracking and advanced workout metrics, it helps you stay active, healthy, safe and connected.",
+        "category": "watch",
+        "stock": 4,
+        "reviews": 28,
+        "stars": 4.4,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "justiceC",
+        "name": "Boombeats 650 Over-Ear Headphones",
+        "price": 1900000,
+        "company": "JBL",
+        "colors": [
+            "#e84118",
+            "#fbc531",
+            "#00a8ff"
+        ],
+        "description": "Combining long-lasting performance with personalised sound quality, the JBL WH-CH520 Wireless Headphones are an excellent addition to your day-to-day life. They boast a playback time of up to 50 hours, making them ideal for long listening sessions. Also, they feature USB Type-C quick charging, providing up to 90 minutes of playback with just 3 minutes of charging time. Moreover, these headphones come with the EQ Custom feature on the JBL Headphones Connect App, allowing you to personalise the sound to suit your preferences.",
+        "category": "accessories",
+        "stock": 3,
+        "reviews": 73,
+        "stars": 4.8,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "justiceD",
+        "name": "Galaxy S21",
+        "price": 4990000,
+        "company": "Samsung",
+        "colors": [
+            "#2f3640",
+            "#dcdde1"
+        ],
+        "description": "With the Samsung Galaxy S21 Plus Smartphone, you can click amazing shots and record stunning videos at up to 8K resolution as it comes with a 64 MP camera setup. This smartphone is 5G-ready, enabling you to stream videos and download content from the Web with minimal lag. Moreover, its powerful processor and long-lasting battery make it a delight to use this smartphone.",
+        "category": "mobile",
+        "stock": 5,
+        "reviews": 20,
+        "stars": 4.5,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/16632913/pexels-photo-16632913/free-photo-of-close-up-of-redmi-cellphone.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceE",
+        "name": "Macbook Pro",
+        "price": 14990000,
+        "company": "Apple",
+        "colors": [
+            "#dcdde1",
+            "#273c75",
+            "#353b48"
+        ],
+        "description": "This Apple Macbook is powered by the Apple M1 chip and is easily portable so that you can carry it with you anywhere you want. This thin and light notebook is equipped with an 8-core CPU to handle all your tasks more efficiently. The 8-core GPU of this notebook takes graphic-intensive games and apps to a whole new level. It also comes with a 16-core Neural Engine to do machine learning tasks more effectively. Its fan-less design offers silent operations and has a long-lasting battery life which can last up to 18 hours on a single charge.",
+        "category": "laptop",
+        "stock": 6,
+        "reviews": 48,
+        "stars": 4.0,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/434346/pexels-photo-434346.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceF",
+        "name": "Macbook M1",
+        "price": 12000000,
+        "company": "Apple",
+        "colors": [
+            "#dcdde1",
+            "#7f8fa6",
+            "#353b48"
+        ],
+        "description": "This Apple Macbook is powered by the Apple M1 chip and is easily portable so that you can carry it with you anywhere you want. This thin and light notebook is equipped with an 8-core CPU to handle all your tasks more efficiently. The 8-core GPU of this notebook takes graphic-intensive games and apps to a whole new level. It also comes with a 16-core Neural Engine to do machine learning tasks more effectively. Its fan-less design offers silent operations and has a long-lasting battery life which can last up to 18 hours on a single charge.",
+        "category": "laptop",
+        "stock": 4,
+        "reviews": 13,
+        "stars": 3.3,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/434346/pexels-photo-434346.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceG",
+        "name": "Mac PC",
+        "price": 11000000,
+        "company": "Apple",
+        "colors": [
+            "#dcdde1",
+            "#7f8fa6"
+        ],
+        "description": "This Apple Macbook is powered by the Apple M1 chip and is easily portable so that you can carry it with you anywhere you want. This thin and light notebook is equipped with an 8-core CPU to handle all your tasks more efficiently. The 8-core GPU of this notebook takes graphic-intensive games and apps to a whole new level. It also comes with a 16-core Neural Engine to do machine learning tasks more effectively. Its fan-less design offers silent operations and has a long-lasting battery life which can last up to 18 hours on a single charge.",
+        "category": "laptop",
+        "stock": 5,
+        "reviews": 12,
+        "stars": 4.1,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/434346/pexels-photo-434346.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceH",
+        "name": "Galaxy Watch 3",
+        "price": 1199900,
+        "company": "Samsung",
+        "colors": [
+            "#2f3640",
+            "#718093"
+        ],
+        "description": "Flaunting a stylish design that features a big and bright display, the Galaxy Watch 3 boasts of numerous useful features. From tracking your steps and measuring the oxygen levels in your bloodstream to making calls and switching songs, this smartwatch paves the way for a healthier you, while staying connected to your friends and family.",
+        "category": "watch",
+        "stock": 7,
+        "reviews": 57,
+        "stars": 4.2,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceI",
+        "name": "Redmi Note 10",
+        "price": 1449900,
+        "company": "Xiaomi",
+        "colors": [
+            "#0097e6",
+            "#fbc531",
+            "#2f3640"
+        ],
+        "description": "Unleash the gaming enthusiasm in you with the powerful Redmi Note 10s smartphone. This mobile phone features a 16.33 cm (6.42) Super AMOLED display to ensure a smooth viewing and gaming experience. Also, it is driven by an efficient Helio G95 processor and HyperEngine Game Technology that lets you enjoy stellar performance and seamless gaming.",
+        "category": "mobile",
+        "stock": 12,
+        "reviews": 130,
+        "stars": 4.4,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/16632913/pexels-photo-16632913/free-photo-of-close-up-of-redmi-cellphone.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceJ",
+        "name": "Lumia 900",
+        "price": 3199900,
+        "company": "Nokia",
+        "colors": [
+            "#00a8ff",
+            "#fbc531"
+        ],
+        "description": "Nokia has brought about its latest high end offering to the smartphone market in the form of the Nokia Lumia 900 which packs in its rectangular frame a large number of extremely smart features. The device comes in a bar form and is run on the Windows Phone 7.5 (Mango) OS. The operating system is backed up by an extremely powerful 1.4 GHz Qualcomm Scorpion processor as well as 512 MB of RAM to ensure that applications on the device are run in a smooth and efficient manner.",
+        "category": "mobile",
+        "stock": 5,
+        "reviews": 17,
+        "stars": 3.8,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/5741605/pexels-photo-5741605.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/16632913/pexels-photo-16632913/free-photo-of-close-up-of-redmi-cellphone.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceK",
+        "name": "Alpha 7 DSLR",
+        "price": 5949900,
+        "company": "Sony",
+        "colors": [
+            "#2f3640",
+            "#353b48"
+        ],
+        "description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features. This camera features a 35 mm Full-frame Image Sensor, Up to 10 fps with AF/AE Tracking, and High-resolution, High-contrast XGA OLED Tru-Finder to click clear images and high-quality videos.",
+        "category": "camera",
+        "stock": 21,
+        "reviews": 19,
+        "stars": 4.3,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/45889/camera-photo-camera-sony-alpha-7-sony-45889.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    },
+    {
+        "id": "justiceL",
+        "name": "Nintendo Entertainment Syatem",
+        "price": 1050000,
+        "company": "Nintendo",
+        "colors": [
+            "#dcdde1",
+            "#353b48"
+        ],
+        "description": "Nintendo Switch is designed to fit your life, transforming from home console to portable system in a snap. The included Joy-Con controllers give you total game play flexibility. You have the option to dock your Nintendo Switch to enjoy HD gaming on your TV. Make use of the tabletop mode to flip the stand to share the screen, then share the fun with a multiplayer game.",
+        "category": "console",
+        "stock": 15,
+        "reviews": 8,
+        "stars": 4.0,
+        "image": [
+            {
+                "url": "https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg",
+                "width": 1260,
+                "height": 750
+            },
+            {
+                "url": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+                "width": 1260,
+                "height": 750
+            }
+        ]
+    }
+]
